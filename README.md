@@ -1,3 +1,5 @@
+This is the ReadMe that a Vite + React project quick start comes with, I have made this just to tinker with the tool and learn how it works.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
